@@ -1,0 +1,15 @@
+Local site: 
+http://127.0.0.1:5173/
+
+Deployment check: 
+https://github.com/jimmylk/lucky-draw-demo/commits/main
+
+Deom github page: 
+https://jimmylk.github.io/lucky-draw-demo/
+
+Assets link reference: 
+https://jimmylk.github.io/lucky-draw-demo/assets/index.9104e8c2.js
+
+Reference: 
+https://100px.net/demo/more.html
+https://learningsky.io/deploy-vue-to-github-pages/
